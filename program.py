@@ -1,1 +1,5 @@
-print('Я домашка'
+from itertools import combinations_with_replacement
+
+
+print('Я домашка')
+
